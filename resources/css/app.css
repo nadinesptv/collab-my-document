@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-slate-100 text-slate-900;
+  }
+}
+
+@layer components {
+  .card-soft {
+    @apply rounded-[28px] bg-white border border-slate-200 shadow-sm;
+  }
+}
