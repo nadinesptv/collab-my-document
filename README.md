@@ -21,7 +21,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-# 📄 Google Docs Clone
+# 📄 My Document
 
 Aplikasi kolaborasi dokumen real-time berbasis web yang dibangun dengan **Laravel 12**, **Laravel Reverb**, dan **Vite**. Memungkinkan beberapa pengguna mengedit dokumen yang sama secara bersamaan dengan sinkronisasi konten dan live cursor.
 
@@ -182,5 +182,6 @@ resources/
 Project ini dibuat untuk keperluan pembelajaran. Bebas digunakan dan dimodifikasi.
 
 ---
-
-> Dibuat dengan ❤️ menggunakan Laravel 12 + Reverb
+Nama: Nadine Septia Vynola
+Nim: 240180026
+Kelas:A1
