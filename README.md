@@ -183,5 +183,7 @@ Project ini dibuat untuk keperluan pembelajaran. Bebas digunakan dan dimodifikas
 
 ---
 Nama: Nadine Septia Vynola
+
 Nim: 240180026
+
 Kelas:A1
